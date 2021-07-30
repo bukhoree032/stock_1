@@ -1,1 +1,1 @@
-<?php exit?>[{"pending":0,"returned":0,"confirmed":0}]
+<?php exit?>[{"pending":1,"returned":0,"confirmed":0}]
