@@ -125,13 +125,15 @@ class Config
      *
      * @var string
      */
-    public $web_description = 'PHP Framework พัฒนาโดยคนไทย';
+    // public $web_description = 'PHP Framework พัฒนาโดยคนไทย';
+    public $web_description = '';
     /**
      * ชื่อเว็บไซต์
      *
      * @var string
      */
-    public $web_title = 'Kotchasan PHP Framework';
+    // public $web_title = 'Kotchasan PHP Framework';
+    public $web_title = '';
     /**
      * @var Singleton สำหรับเรียกใช้ class นี้เพียงครั้งเดียวเท่านั้น
      */

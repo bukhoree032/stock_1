@@ -148,6 +148,12 @@ class View extends \Gcms\View
                     'text' => '{LNG_Detail}',
                 ),
             ),
+            /* ปุ่มเพิ่ม */
+            'addNew' => array(
+                'class' => 'float_button icon-new',
+                'href' => 'index.php?module=borrow',
+                'title' => '{LNG_Add Borrow}',
+            ),
         ));
         // save cookie
         setcookie('borrow_inventory_perPage', $table->perPage, time() + 2592000, '/', HOST, HTTPS, true);

@@ -126,7 +126,7 @@ return array(
   'Import' => 'นำเข้า',
   'Installed modules' => 'โมดูลที่ติดตั้งแล้ว',
   'Invalid :name' => ':name ไม่ถูกต้อง',
-  'Inventory' => 'คลังสินค้า',
+  'Inventory' => 'คลังพัสดุ',
   'INVENTORY_CATEGORIES' => array(
     'category_id' => 'หมวดหมู่',
     'type_id' => 'ประเภท',
